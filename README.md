@@ -23,6 +23,5 @@ This project is licensed under the MIT License.
 ## PCB Preview
 ### Top Layer
 ![PCB Top](Images/PCB_Layout_3D.png)
-
 ### 3D View
 ![PCB Top](Images/PCB_Layout_3D_0.2.png)
