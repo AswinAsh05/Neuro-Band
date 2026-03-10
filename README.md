@@ -19,3 +19,7 @@ The system integrates motion sensing, wireless communication, and low-power desi
 
 ## License
 This project is licensed under the MIT License.
+
+## PCB Preview
+### Top Layer
+![PCB Top](Images/PCBLayout3D.png)
